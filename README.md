@@ -1,6 +1,6 @@
 # Welcome!
 
-First of all, thank you for the interest showed on me. I truly appreciate it!
+First of all, thank you for the interest shown on me. I truly appreciate it!
 
 On another note, here you can find different Machine Learning models deployed by me. Each one in a separate Jupyter Notebook.
 
