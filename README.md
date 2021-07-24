@@ -8,4 +8,4 @@ I hope the models help you get a grasp of my knowledge and abilities in regards 
 
 Hope to hear from you soon!
 
-![Peace out](https://tenor.com/es/ver/peace-out-gif-6219188)
+![Peace out](/peace_out.gif)
