@@ -7,3 +7,5 @@ On another note, here you can find different Machine Learning models deployed by
 I hope the models help you get a grasp of my knowledge and abilities in regards of ML and in case of doubt, feel free to write me an email to yvonne.muller.martorell@gmail.com.
 
 Hope to hear from you soon!
+
+![Peace out](https://tenor.com/es/ver/peace-out-gif-6219188)
