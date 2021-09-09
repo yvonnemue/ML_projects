@@ -1,6 +1,7 @@
-![Loan](../Images/Loan.jpg)
 
 # Defaulting loand prediction
+
+![Loan](../Images/Loan.jpg)
 
 ### Situation: 
 
