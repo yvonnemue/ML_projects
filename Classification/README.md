@@ -1,3 +1,5 @@
+![Loan](../Images/Loan.jpg)
+
 # Defaulting loand prediction
 
 ### Situation: 
@@ -18,5 +20,3 @@ Several models were trained and fine-tuned in order to use the best performing o
 
 The demographic characteristics of the users defaulting and not defaulting is extremely similar, which means that maybe additional data should be leveraged. 
 Nevertheless, a model able to correctly predict if a loan is going to default or not in **7 out of 10 cases** was achieved.
-
-![Loan](../Images/Loan.jpg)
