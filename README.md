@@ -8,4 +8,4 @@ I hope these projects help you get a grasp of my knowledge and abilities in rega
 
 Hope to hear from you soon!
 
-![Peace out](/peace_out.gif)
+![Peace out](/Images/peace_out.gif)
