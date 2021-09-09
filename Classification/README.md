@@ -1,5 +1,5 @@
 
-# Defaulting loand prediction
+# Defaulting loans prediction
 
 ![Loan](../Images/Loan.jpg)
 
