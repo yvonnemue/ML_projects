@@ -12,10 +12,10 @@ Due to the imalance of the target class, the confussion matrix was also used to 
 
 ### Models trained:
 
-Several models were trained and fine-tuned in order to use the one best performing to make the final predictions.
+Several models were trained and fine-tuned in order to use the best performing one to make the final predictions.
 
 ### Results:
 
-The demographic characteristics of the users defaulting and not defaulting is extremely similar, which means that maybe other data should be leveraged. 
-Nevertheless, a model able to correctly predict if a loan is going to default or not in 7 out of 10 cases was achieved.
+The demographic characteristics of the users defaulting and not defaulting is extremely similar, which means that maybe additional data should be leveraged. 
+Nevertheless, a model able to correctly predict if a loan is going to default or not in **7 out of 10 cases** was achieved.
 
