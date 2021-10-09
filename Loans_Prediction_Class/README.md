@@ -6,12 +6,12 @@
 ### Situation: 
 
 On this project you'll find a solution to a classification problem in which a bank wanted to predict the risk of defaulting of their users based on their demographic features.
-Due to the nature of the situation, the predicting class (defaulting vs. not defaulting) was hugely imalanced.
+Due to the nature of the situation, the predicting class (defaulting vs. not defaulting) was hugely imbalanced.
 
 ### Metrics:
 
 The ROC AUC metric was used in order to compare the performance of the models.
-Due to the imalance of the target class, the confussion matrix was also used to make sure that the models were not just getting a higher score by always predicting the majority class.
+Due to the imbalance of the target class, the confusion matrix was also used to make sure that the models were not just getting a higher score by always predicting the majority class.
 
 ### Models trained:
 
