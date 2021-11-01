@@ -12,10 +12,11 @@ Both ARIMA and Facebook Prophet were trained and their outcomes were compared in
 
 ### Metrics:
 
-The ROC AUC metric was used in order to compare the performance of the models.
-Due to the imbalance of the target class, the confusion matrix was also used to make sure that the models were not just getting a higher score by always predicting the majority class.
+MSE (Mean Squared Error) was used to compare which of the models was performing best.
+
 
 ### Results:
 
-The demographic characteristics of the users defaulting and not defaulting is extremely similar, which means that maybe additional data should be leveraged. 
-Nevertheless, a model able to correctly predict if a loan is going to default or not in **7 out of 10 cases** was achieved.
+The company is growing and its revenue follows a positive trend.
+
+Investing €50K is, although the most viable option, still a risk. With €50K the growth rate of company B should be around 117% and the predicted annual growth of the company for the next 12 months is only 89%. 
